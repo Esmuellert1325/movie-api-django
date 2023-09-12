@@ -1,0 +1,14 @@
+.box {
+    width: 450px;
+    height: 450px;
+}
+
+.box img {
+    width: 150px;
+    height: 200px;
+}
+
+.box > * {
+    color: #000;
+    text-shadow: none;
+}

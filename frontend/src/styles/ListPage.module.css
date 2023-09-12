@@ -1,0 +1,25 @@
+* {
+    color: #fff;
+    text-shadow: 1px 2px black;
+}
+
+.container {
+    margin: auto;
+    margin-top: 68px;
+    width: 500px;
+    text-align: center;
+    height: 500px;
+    border-radius: 30px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: auto;
+}
+
+.container h1 {
+    color: #000;
+    text-shadow: none;
+    margin: auto;
+    padding: 10px 0;
+}

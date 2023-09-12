@@ -1,0 +1,23 @@
+* {
+    color: #fff;
+    text-shadow: 1px 2px black;
+    overflow: hidden;
+}
+
+.container div {
+    margin-left: 50px;
+    margin-top: 70px;
+    width: 500px;
+    text-align: center;
+    height: 500px;
+}
+
+.container div > h4:nth-of-type(1){
+    padding-top: 35px;
+}
+
+.container div h4 {
+    padding-top: 15px;
+    margin-left: 20px;
+    text-align: left;
+}
